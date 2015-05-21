@@ -10,7 +10,8 @@ namespace git2
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("afewfwf");
+            Console.ReadKey();
         }
     }
 }
